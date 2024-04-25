@@ -1,4 +1,4 @@
-# Final Degree Work
+# Bachelor's Thesis
 
 In this repository you will find my final degree work: "**Design and implementation of an artificial intelligence for a horror videogame in Unreal Engine 5**", in which I obtained a score of **9.5** out of 10, and was nominated for an **honorary certificate**.
 
